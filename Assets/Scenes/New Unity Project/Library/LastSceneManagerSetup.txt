@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/Aravind/Desktop/flappy bird/10-Days-10-Game-Day02-Flappy-Bird-main/10-Days-10-Game-Day02-Flappy-Bird-main/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
